@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Wield Updates</title>
+    <link>https://jram4.github.io/wield-releases/</link>
+    <description>Signed Wield releases for macOS.</description>
+    <language>en</language>
+  </channel>
+</rss>
