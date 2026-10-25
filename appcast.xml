@@ -10,6 +10,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <language>en</language>
         <item>
             <title>1.0</title>
+            <pubDate>Sun, 25 Oct 2026 21:08:52 +0100</pubDate>
+            <link>https://jram4.github.io/wield-releases/</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>104</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="aoi2Henh36ykThUQFZzPc1IRkiVeMQzdlMJtF3KO/h7RaqCrpyuasvikAvdRqtsExWoogsAgZZmW5eyT68YKCg==" sparkle:length="1356">https://github.com/jram4/wield-releases/releases/download/build-104/Wield-1.0-104.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jram4/wield-releases/releases/download/build-104/Wield-1.0-104.dmg" length="5066708" type="application/octet-stream" sparkle:edSignature="b8O8RiVh+otOhudzZdjUkVAKjHE26/+tcfcqcUBCBhhWMJQLba3lgaM4xAXKURmJsz1eNF6UFqOd6WCvdMVsBQ=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Sun, 25 Oct 2026 17:37:42 +0100</pubDate>
             <link>https://jram4.github.io/wield-releases/</link>
             <sparkle:channel>beta</sparkle:channel>
@@ -22,6 +33,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 2Mh+y0oM5YcnOXhXNTSVjAbG3sMnx+OGp/L3b5kfmdCpjjQs96hRWt7Ew8RVItL6osCMSvDwGf6bOkgv6Z1eCw==
-length: 1620
+edSignature: UA/NQgH/9qjRptrltDD10C8c5PY7OgR9OhIETTOoCMEX9okJ3fxupoySnuM4WZrfgl9IAxGFSRPw4Y1AtB40Bg==
+length: 2626
 -->
