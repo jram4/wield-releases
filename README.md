@@ -2,13 +2,13 @@
 
 This repository hosts Wield's public update feed and release downloads. It does not contain Wield's application source or signing private keys.
 
-**[Download Wield Beta 6 — version 1.0 (108)](https://github.com/jram4/wield-releases/releases/download/build-108/Wield-1.0-108.dmg).**
+**[Download Wield Beta 7 — version 1.0 (109)](https://github.com/jram4/wield-releases/releases/download/build-109/Wield-1.0-109.dmg).**
 
-Drag `WieldMac.app` into Applications, launch it there, and follow setup for permissions, appearance and everyday shortcuts. Future releases arrive through Wield's built-in updater. See the [release notes](https://github.com/jram4/wield-releases/releases/tag/build-108).
+Drag `WieldMac.app` into Applications, launch it there, and follow setup for permissions, appearance, everyday shortcuts and optional folder access. Send bugs and suggestions with Feedback. Future releases arrive through Wield's built-in updater. See the [release notes](https://jram4.github.io/wield-releases/notes/Wield-1.0-109.html).
 
 The universal build targets macOS 13 or later on Apple Silicon and Intel. Installation and the signed 101 → 102 update have been verified on macOS 27 with Apple Silicon. Older macOS versions and physical Intel Macs still need runtime testing.
 
-Releases titled **Wield Update Test** use isolated staging data and are intended for release testing. Use Beta 6 for everyday Wield data.
+Releases titled **Wield Update Test** use isolated staging data and are intended for release testing. Use Beta 7 for everyday Wield data.
 
 The update feed is published at <https://jram4.github.io/wield-releases/appcast.xml>. Updates and the feed are signed with Sparkle Ed25519 signatures; application releases also require Developer ID signing and Apple notarization.
 
